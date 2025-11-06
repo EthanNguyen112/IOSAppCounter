@@ -10,6 +10,8 @@ An automation for the IOS shortcut app to show how many times an application has
 - Easy to extend for multiple apps
 
 ## Installation
+Download here: https://www.icloud.com/shortcuts/a5027a7ac7ac441d8c899c20e8e6436a
+
 1. **Download the `AppCounter.shortcut' file** from this repository.
 2. Open it on your iPhone → it’ll open in the **Shortcuts app**.
 3. Tap **Add Shortcut**.
